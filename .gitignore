@@ -7,6 +7,7 @@ ddd.py
 .env
 *.txt
 !requirements.txt
+!message.txt
 *.png
 *.pdf
 *ipynb
