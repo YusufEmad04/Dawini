@@ -12,3 +12,4 @@ ddd.py
 *.pdf
 *ipynb
 server.py
+development.py
